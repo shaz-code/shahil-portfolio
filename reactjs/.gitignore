@@ -23,6 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignore all assets except resume
-public/assets/*
-!public/assets/shahil-resume.pdf
